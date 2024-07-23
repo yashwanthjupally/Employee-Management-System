@@ -1,10 +1,10 @@
 # Employee Management System
 
-<h4>A full stack Java application to manage employee details</h4>
+## Description
+  A full stack Java application to manage employee details
 
 
-
-## Tech Stack
-- [Backened] (#Spring Boot)
-- [Frontend] (#React) (#Tailwind CSS)
-- [Database] (#MySQL)
+## Technologies Used
+- **Backend**: Spring Boot, Java
+- **Frontend**: React, JavaScript, Tailwind CSS
+- **Database**: MySQL
